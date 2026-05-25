@@ -1,5 +1,7 @@
 # Spotify Data Analysis & Visualization Project
 
+![Spotify Dashboard Preview](dashboard.png)
+
 ## 📌 Project Overview
 This project demonstrates an end-to-end data analytics workflow. It starts with raw data exploration and querying using **SQL** to extract key musical trends, followed by building an interactive visual dashboard in **Tableau** to present the insights professionally.
 
